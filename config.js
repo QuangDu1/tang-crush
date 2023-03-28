@@ -6,7 +6,7 @@ const CONFIG = {
     desc: 'Già Cùng nhau là được  ',
     btnYes: 'Vẫn cứ là thích anh <33',
     btnNo: 'Không, Anh à :3',
-    question:'Trên thế giới hơn 7 tỉ người mà sao em lại thích anh <3',
+    question:'Trên thế giới hơn 7 tỉ người mà sao em lại thích anhh <3',
     btnReply: 'Gửi cho anh <3',
     reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
     mess: 'Anh biết mà 🥰. Thích em nhiều nhiều 😘😘',
